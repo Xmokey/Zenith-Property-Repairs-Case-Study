@@ -32,17 +32,9 @@ The core workflow is:
 
 ## The Problem
 
-Property repair creates operational and commercial risk across diagnosis, contractor qualification, pricing, delivery, quality and payment.
+Property repair is fragmented across **diagnosis, contractor quality, scope, pricing, delivery, compliance and payment**. Each part can introduce a separate failure, but the consequences compound across the job: poor diagnosis can create scope problems; weak contractor qualification can create quality risk; uncontrolled scope can create pricing disputes; and weak delivery controls can lead to delays, payment disputes and operational fallout.
 
-For property owners, the core questions are:
-
-- **Is the contractor qualified to perform the work?**
-- **Has the property problem been properly assessed before work is priced or started?**
-- **Does the proposed cost appropriately reflect the work required?**
-- **Can the owner reliably monitor delivery and progress without having to manage the contractor directly?**
-- **Has completed work been properly verified before the project advances and payments are released?**
-
-Poorly controlled processes can lead to delays, disputes, cost overruns, compliance issues, quality problems and broader operational fallout.
+The underlying problem was not simply finding someone to fix a property. It was the absence of a **structured system for controlling the work from assessment through delivery and payment**.
 
 For contractors, the problem is different. They need structured work, clear assignments, defined scopes, predictable delivery and payment processes, without carrying the full burden of lead acquisition, marketing and selling every job.
 
@@ -200,7 +192,7 @@ Contractors therefore estimate the work, while Zenith maintains control of the c
 
 Once the quotation is accepted, the platform moves the engagement into contract and project execution.
 
-This creates a controlled path from an initially uncertain property problem to an agreed commercial engagement.
+This creates a controlled path from assessment to an agreed commercial engagement.
 
 ---
 
