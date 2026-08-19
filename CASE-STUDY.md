@@ -1,6 +1,6 @@
 # Zenith Property Repairs
 
-## Turning an ambiguous property-repair brief into a controlled service-delivery system
+## Turning a fragmented property-repair process into a controlled service-delivery system
 
 **Role:** Product Owner — Technical Delivery  
 **Team:** 1 Backend Engineer · 2 Frontend Engineers  
@@ -11,13 +11,13 @@
 
 ## The challenge
 
-Property repair is a chain of decisions and risks. A property owner may know something is wrong without knowing what the problem is, what it should cost, who is qualified to do it, what is included, whether progress has been verified, or when payment should be released.
+Property repair is fragmented across **diagnosis, contractor quality, scope, pricing, delivery, compliance and payment**. Each part can introduce a separate failure, but the consequences compound across the job: poor diagnosis can create scope problems; weak contractor qualification can create quality risk; uncontrolled scope can create pricing disputes; and weak delivery controls can lead to delays, payment disputes and operational fallout.
 
-The risks extend into contractor quality, delivery, compliance, delays, disputes and the business fallout that follows when the process is poorly controlled.
+The underlying problem was not simply finding someone to fix a property. It was the absence of a **structured system for controlling the work from assessment through delivery and payment**.
 
 The product challenge was therefore broader than building a contractor marketplace.
 
-**The system needed to control the relationship between the property owner and contractor.**
+**Zenith needed to become the operational control and quality-enforcement layer between property owners and contractors.**
 
 ---
 
@@ -176,9 +176,9 @@ I translated an ambiguous service problem into an actor model, inspection decisi
 
 ## Result
 
-Zenith was designed as more than a contractor marketplace. It became a managed property-services operating model in which Zenith controls the critical handoffs between **problem identification, qualified supply, commercial agreement, project execution, verification and payment**.
+Zenith was designed as more than a contractor marketplace. It became a managed property-services operating model in which Zenith controls the critical handoffs between **assessment, qualified supply, commercial agreement, project execution, verification and payment**.
 
-The measurable commercial outcomes are not claimed because the project was still at **end-stage QA / pre-production**. The demonstrable product outcome is the conversion of a broad, ambiguous property-repair brief into a connected, implementable system of workflows, rules and controls.
+The measurable commercial outcomes are not claimed because the project was still at **end-stage QA / pre-production**. The demonstrable product outcome is the conversion of a fragmented property-repair problem into a connected, implementable system of workflows, rules and controls.
 
 ---
 
