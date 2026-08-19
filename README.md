@@ -12,9 +12,11 @@
 
 ## Overview
 
-Zenith Property Repairs is a managed marketplace connecting property owners, investors and other property stakeholders with qualified contractors for repairs, renovations and property development.
+Zenith Property Repairs is a managed marketplace designed to give property owners a **client-supervised, done-for-you repair experience** without exposing them to the risks and operational burden of sourcing and managing contractors.
 
-It is not designed as a conventional contractor directory or open marketplace. Clients do not simply browse contractors and engage them directly. Zenith provides the operational control and quality-enforcement layer between property owners and contractors, governing the process from initial request through inspection, contractor assignment, quotation, contracting, project delivery and payment.
+At the same time, Zenith gives vetted contractors **qualified, inspected and commercially structured work** without the lead-acquisition and marketing burden of finding and selling to clients.
+
+Zenith is not designed as a conventional contractor directory or open marketplace. It operates as the **operational control and quality-enforcement layer** between property owners and contractors, governing the process from initial request through inspection, contractor assignment, quotation, contracting, project delivery and payment.
 
 The operating principles are:
 
@@ -28,27 +30,25 @@ The core workflow is:
 
 ## The Problem
 
-Property repair is messy because diagnosis, contractor quality, pricing, scope, delivery, compliance and payment can all introduce risk.
+Property repair creates operational and commercial risk across diagnosis, contractor qualification, pricing, delivery, quality and payment.
 
-For property owners, there can be uncertainty around:
+For property owners, the core questions are:
 
-- whether the contractor is qualified to perform the work
-- whether the problem has been properly assessed
-- what the work should cost
-- what is actually included in the scope
-- whether work is progressing as expected
-- whether completed work has been properly verified
-- when payments should be released
+- **Is the contractor qualified to perform the work?**
+- **Has the property problem been properly assessed before work is priced or started?**
+- **Does the proposed cost appropriately reflect the work required?**
+- **Can the owner reliably monitor delivery and progress without having to manage the contractor directly?**
+- **Has completed work been properly verified before the project advances and payments are released?**
 
-Poorly controlled processes can lead to delays, disputes, scope changes, cost overruns, compliance issues and broader operational fallout.
+Poorly controlled processes can lead to delays, disputes, cost overruns, compliance issues, quality problems and broader operational fallout.
 
-Contractors face a different set of problems. They need structured assignments, clear scopes, defined workflows, predictable milestone processes and a reliable path from completed work to payment.
+For contractors, the problem is different. They need structured work, clear assignments, defined scopes, predictable delivery and payment processes, without carrying the full burden of lead acquisition, marketing and selling every job.
 
-Zenith was designed to address both sides.
+Zenith addresses both sides by absorbing the coordination, qualification, assessment, commercial and delivery-control burden between them.
 
 **Property owners get access to qualified, vetted contractors through a structured service-delivery process.**
 
-**Contractors receive structured work through a governed operating environment.**
+**Contractors receive qualified, inspected and commercially structured work through a governed operating environment.**
 
 Zenith sits between both sides as the **operational control and quality-enforcement layer**.
 
@@ -60,7 +60,7 @@ The platform is organized around three primary actors:
 
 ### Property Owner / Client
 
-Submits a repair or renovation request, provides property information, accepts terms, pays applicable inspection fees, reviews quotations, approves contracts, evaluates milestones and makes required project payments.
+Submits a repair or renovation request, provides property information, accepts terms, pays applicable inspection fees and project payments, reviews quotations, approves contracts and evaluates project milestones.
 
 ### Contractor
 
@@ -68,7 +68,7 @@ Registers and completes onboarding, satisfies qualification and compliance requi
 
 ### Zenith Admin
 
-Provides the operational control layer: reviews and classifies requests, assigns qualified contractors, reviews inspections and estimates, generates quotations, manages contracts, verifies milestones and handles disputes.
+Provides the operational control layer: reviews and classifies requests, assigns qualified contractors, reviews inspections and estimates, negotiates and structures the commercial proposal, generates client quotations, manages contracts, verifies milestones and handles disputes.
 
 The resulting model is:
 
@@ -174,17 +174,17 @@ The operating principle is:
 
 The primary commercial workflow is:
 
-**Request → Terms → Inspection → Estimate → Zenith Quote → Contract → Project**
+**Request → Terms → Inspection → Estimate → Zenith Negotiation → Quote → Contract → Project**
 
 The inspection establishes the information needed to understand the property problem and develop the scope.
 
 The contractor provides the technical estimate.
 
-Zenith Admin reviews the estimate, applies the appropriate platform markup, defines milestones and generates the client quotation.
+Zenith Admin reviews the estimate and engages with the contractor on the work and commercial terms before establishing the client-facing quotation.
 
 Contractors therefore estimate the work, while Zenith maintains control of the client-facing commercial relationship.
 
-> **Contractors estimate. Zenith quotes.**
+> **Contractors estimate. Zenith negotiates and quotes.**
 
 Once the quotation is accepted, the platform moves the engagement into contract and project execution.
 
@@ -302,7 +302,7 @@ Designing a marketplace where the platform actively governs the relationship bet
 
 ### Operational & Quality Control
 
-Embedding qualification, assignment, inspection, verification and payment controls into the product workflow.
+Embedding qualification, assignment, inspection, negotiation, verification and payment controls into the product workflow.
 
 ### AI Product Design
 
@@ -314,7 +314,7 @@ Connecting property owners, contractors and Admin through explicit states, hando
 
 ### Commercial Product Thinking
 
-Separating contractor estimation from platform-controlled quoting and connecting project delivery to milestone-based payments.
+Separating contractor estimation from platform-controlled negotiation and quoting, while connecting project delivery to milestone-based payments.
 
 ### Technical Product Management
 
