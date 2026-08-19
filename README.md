@@ -2,13 +2,13 @@
 
 ## Managed Property-Services Marketplace & Delivery Platform
 
-![Zenith Property Repairs](assets/website-hero.png)
-
-**Role:** Product / Technical Delivery  
+**Role:** Product Owner — Technical Delivery  
 **Product:** Managed marketplace for property repairs, renovations and development  
 **Users:** Property Owners / Investors · Contractors · Zenith Admin  
 **Development:** 1 Backend Engineer · 2 Frontend Engineers  
 **Status:** End-stage QA / Pre-production
+
+![Zenith Property Repairs](assets/website-hero.png)
 
 ---
 
@@ -20,15 +20,13 @@ At the same time, Zenith gives vetted contractors **qualified, inspected and com
 
 Zenith is not designed as a conventional contractor directory or open marketplace. It operates as the **operational control and quality-enforcement layer** between property owners and contractors, governing the process from initial request through inspection, contractor assignment, quotation, contracting, project delivery and payment.
 
-The operating principles are:
+> **Inspect before you quote. Vet before you assign. Pay in milestones, not upfront.**
 
-> **Inspect before you quote. Vet before you assign. Tie payments to project milestones.**
+![Zenith operating model](assets/zenith-operating-model.png)
 
 The core workflow is:
 
 **Inspection → Estimate → Quote → Contract → Project**
-
-![Zenith operating model](assets/zenith-operating-model.png)
 
 ---
 
@@ -174,11 +172,9 @@ and
 
 The objective is not simply to create contractor supply. It is to create **qualified, usable supply** that Zenith can confidently assign to property work.
 
-The operating principle is:
+![Contractor assignment](assets/assignment.png)
 
 > **Vet before you assign.**
-
-![Contractor assignment](assets/assignment.png)
 
 ---
 
@@ -188,6 +184,8 @@ The primary commercial workflow is:
 
 **Request → Terms → Inspection → Estimate → Zenith Negotiation → Quote → Contract → Project**
 
+![Service request](assets/service-request.png)
+
 The inspection establishes the information needed to understand the property problem and develop the scope.
 
 The contractor provides the technical estimate.
@@ -196,9 +194,9 @@ Zenith Admin reviews the estimate and engages with the contractor on the work an
 
 Contractors therefore estimate the work, while Zenith maintains control of the client-facing commercial relationship.
 
-> **Contractors estimate. Zenith negotiates and quotes.**
+![Quotation](assets/quote.png)
 
-![Quotation workflow](assets/quote.png)
+> **Contractors estimate. Zenith negotiates and quotes.**
 
 Once the quotation is accepted, the platform moves the engagement into contract and project execution.
 
@@ -214,17 +212,15 @@ The project includes an **initial contractor deployment payment** to enable mobi
 
 Subsequent payments are tied to defined project milestones and the verification of completed work.
 
+![Controlled delivery and payment](assets/delivery-and-payment.png)
+
 The workflow includes:
 
 **Milestone → Evidence → Admin Verification → Client Evaluation → Payment**
 
-![Controlled delivery and payment](assets/delivery-and-payment.png)
-
 Contractors submit evidence of milestone completion. Zenith reviews the evidence before the milestone proceeds through the client evaluation and payment process.
 
 Where evidence is insufficient, the milestone can be returned for correction. Where the client disputes the work, the dispute is handled through the defined workflow before payment proceeds.
-
-This creates the principle:
 
 > **Payments follow controlled project progress.**
 
